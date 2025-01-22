@@ -4,4 +4,7 @@ Steps taken:
     b) Setup.py
     c) requirements.txt
 
-2. SRC folder and build the package
+2) SRC folder and build the package
+    a) Create logger, exception, utils, pipeline, data ingestion, transformation
+
+3) 
