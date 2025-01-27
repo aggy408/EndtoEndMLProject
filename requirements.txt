@@ -1,7 +1,13 @@
 pandas
+setuptools
+wheel
 numpy
 seaborn
 matplotlib
+scikit-learn
 ipykernel
+catboost
+xgboost
 dill
+Flask
 # -e .
